@@ -1,0 +1,21 @@
+{
+  "name": "Pricedown",
+  "previewText": "Grand Theft Auto",
+  "spec": 2,
+  "main": {
+    "ggsans-Normal": "https://githubusercontent.com",
+    "ggsans-NormalItalic": "https://githubusercontent.com",
+    "ggsans-Medium": "https://githubusercontent.com",
+    "ggsans-MediumItalic": "https://githubusercontent.com",
+    "ggsans-Semibold": "https://githubusercontent.com",
+    "ggsans-SemiboldItalic": "https://githubusercontent.com",
+    "ggsans-Bold": "https://githubusercontent.com",
+    "ggsans-BoldItalic": "https://githubusercontent.com",
+    "ggsans-ExtraBold": "https://githubusercontent.com",
+    "ggsans-ExtraBoldItalic": "https://githubusercontent.com",
+    "NotoSans-Normal": "https://githubusercontent.com",
+    "NotoSans-Medium": "https://githubusercontent.com",
+    "NotoSans-Semibold": "https://githubusercontent.com",
+    "NotoSans-Bold": "https://githubusercontent.com"
+  }
+}
